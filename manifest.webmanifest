@@ -1,0 +1,14 @@
+{
+  "name": "모뉴먼츠 맨 · 사라진 제단화",
+  "short_name": "모뉴먼츠 맨",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14201f",
+  "theme_color": "#14201f",
+  "icons": [
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
